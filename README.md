@@ -10,7 +10,7 @@ This program analyzes the titles of reddit posts in two ways:
 			and returns a list of the most commonly used words.
 
 Subreddits, keywords, and words to be ignored may be added to
-to subreddits.txt, keywords.txt, and skippedwords.txt respectively
+subreddits.txt, keywords.txt, and skippedwords.txt respectively
 before running the program, or you can add terms with the program's
 user interface.
 
