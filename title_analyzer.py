@@ -151,7 +151,6 @@ class SearchData(object):
 		if subreddit_name in self.subreddits:
 			del self.subreddits[subreddit_name]
 			print '/r/{} deleted from list.\n'.format(subreddit_name)
-			print
 		else:
 			print '/r/{} is not in the list\n.'.format(subreddit_name)
 
